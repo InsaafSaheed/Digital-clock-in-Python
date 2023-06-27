@@ -3,7 +3,7 @@ from tkinter import Label, Tk, Entry, StringVar, Toplevel, Button, Frame
 import threading
 from playsound import playsound
 
-# ======= Configuring window =========
+# ======= Configuring the window =========
 window = Tk()
 window.title("")
 window.geometry("200x150")
